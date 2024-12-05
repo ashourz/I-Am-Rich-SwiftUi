@@ -1,4 +1,4 @@
-# I Am RIch App (SwiftUI)
+# I Am Rich App (SwiftUI)
 App developed as part of The App Brewery's Complete App Development Bootcamp.
 
 # Project Summary
